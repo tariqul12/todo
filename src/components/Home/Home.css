@@ -1,0 +1,18 @@
+.header {
+  position: relative;
+  width: 100%;
+  padding-top: 100px;
+}
+.log-out {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.container {
+  width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}

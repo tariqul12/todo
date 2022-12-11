@@ -1,0 +1,36 @@
+#signup {
+  width: 400px;
+  background-color: #303030;
+  padding: 20px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+.signup input {
+  width: 360px;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+.signup p {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 15px;
+}
+.signup button {
+  width: 100%;
+  padding: 10px 20px;
+  background-color: crimson;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  color: #fff;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.signup div {
+  color: #fff;
+}
